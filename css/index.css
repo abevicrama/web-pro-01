@@ -19,12 +19,12 @@
 .menu-cont{
    grid-area: menu;
    width: auto;height: auto;
-   background-color: rgba(255, 227, 194,0.6);
+   background-color: rgba(24, 233, 111, 0.551);
    padding: 5px;
 }
 .content-cont{
     grid-area: main;
-    background-color: rgba(138, 43, 226,0.9)
+    background-color: rgba(27, 238, 224, 0.56)
     
 }
 .con{
@@ -41,6 +41,7 @@
 .vision-text{
     text-align: justify;
     font-weight: 100;
+    padding: 2%;
 
 font-size: 20px;
 }
@@ -51,6 +52,7 @@ font-size: 20px;
     text-align: center;
     font-size: 30px;
     margin: 10px;
+   
 }
 .welcome-note{
     font-size: 20px;
@@ -58,4 +60,5 @@ font-size: 20px;
 }
 .cont-list{
     font-size: 18px;
+    padding: 2%;
 }

@@ -73,7 +73,7 @@ a{
 .nevbut{
    
     margin-top: 1px;
-    background-color: rgb(21, 124, 0);
+    background-color: rgba(21, 124, 0, 0.785);
     border-radius: 5px;
     display: inline-block;
     width: 110px;

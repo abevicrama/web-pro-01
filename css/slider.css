@@ -80,8 +80,8 @@ ol, li {
   position: relative;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
-  max-width: 650px;
-  height: 450px;
+  max-width: 975px;
+  height: 675px;
   margin: 15px auto;
 }
 
